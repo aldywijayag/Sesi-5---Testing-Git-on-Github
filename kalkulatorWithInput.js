@@ -29,3 +29,4 @@ rl.question('Masukkan angka pertama: ', (num1) => {
 });
 
 //commit pertama
+//commit kedua
