@@ -12,3 +12,5 @@ function kalkulator(num1, num2, operator) {
 console.log(kalkulator(15, 5, '+'));
 console.log(kalkulator(25, 10, '-'));
 console.log(kalkulator(10, 5, '*'));
+
+// Test
